@@ -22,6 +22,30 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
+      <webElementGuid>6997c1c5-9fdc-4f5a-b0ae-e2237a6aaa80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login_logo</value>
+      <webElementGuid>625c04c8-8096-4689-94a5-d4cea9ffafbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;login_logo&quot;]</value>
+      <webElementGuid>8e1c5050-9a3d-46c7-a662-7e31296ea7db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
       <webElementGuid>e63906bb-b6de-4dea-8b51-f0d252326df3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +57,7 @@
       <webElementGuid>f050acbe-20f0-49ba-bde3-65454f3d0534</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
@@ -46,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div</value>
-      <webElementGuid>465f716b-489f-4c58-900e-92e38936fb9b</webElementGuid>
+      <webElementGuid>e62a0f28-855d-4f8f-9930-9327a6b7089f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +78,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div</value>
-      <webElementGuid>e0f25e68-ac1a-41ca-b665-d15878ed6bb6</webElementGuid>
+      <webElementGuid>f712687f-9c61-4691-b38d-fd50acd6d98e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

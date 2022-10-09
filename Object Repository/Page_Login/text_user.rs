@@ -22,10 +22,50 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>748468e5-33ab-4971-8f08-2bde363117ee</webElementGuid>
+      <webElementGuid>75ffb57a-5d25-47d6-a029-b7b90e5e96d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>login_credentials</value>
+      <webElementGuid>57545831-8d32-43fa-8d14-42da53b5e883</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login_credentials</value>
+      <webElementGuid>ac73ef39-1b5c-4b24-8a77-7219ee99762a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Accepted usernames are:standard_userlocked_out_userproblem_userperformance_glitch_user</value>
+      <webElementGuid>47154520-2b02-42ba-b004-63d704d8a6df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login_credentials&quot;)</value>
+      <webElementGuid>ac810438-73e1-443a-b1d0-65beaa8d1b5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>748468e5-33ab-4971-8f08-2bde363117ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
@@ -41,7 +81,7 @@
       <webElementGuid>4ed90a6c-4b4b-4788-8e4a-c5a680743e09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -62,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='login_credentials']</value>
-      <webElementGuid>095cf2f4-e807-491d-8450-7918935c10d0</webElementGuid>
+      <webElementGuid>f7a45e54-ce6a-4c4f-96e4-b7d15803d82e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/div[2]/div/div</value>
-      <webElementGuid>e42cfd56-1182-49ea-93f8-53bb5e52a68a</webElementGuid>
+      <webElementGuid>57a4d46c-909a-4762-a9e7-9255c0f8c880</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='standard_user']/parent::*</value>
-      <webElementGuid>828c7c94-1640-4913-8cf4-5450511882a1</webElementGuid>
+      <webElementGuid>9527f9ed-93ec-420b-9843-f8eb4fd7a175</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div</value>
-      <webElementGuid>ad6ee0e6-8ade-4f69-8538-82f71eb2bc06</webElementGuid>
+      <webElementGuid>acde8e87-90a0-4326-9cfa-e40d3312c357</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'login_credentials' and (text() = 'Accepted usernames are:standard_userlocked_out_userproblem_userperformance_glitch_user' or . = 'Accepted usernames are:standard_userlocked_out_userproblem_userperformance_glitch_user')]</value>
-      <webElementGuid>d08ef377-6679-40be-ad50-d1f3573e29b9</webElementGuid>
+      <webElementGuid>c89d659a-4385-4041-b174-7122c581a831</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

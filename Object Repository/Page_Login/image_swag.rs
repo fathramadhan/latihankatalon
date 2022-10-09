@@ -22,6 +22,30 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
+      <webElementGuid>02da4499-12bf-4c03-b908-dc01982a4415</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bot_column</value>
+      <webElementGuid>697557cc-522b-4e91-a39f-515754a95d19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;login_wrapper&quot;]/div[@class=&quot;login_wrapper-inner&quot;]/div[@class=&quot;bot_column&quot;]</value>
+      <webElementGuid>3b8bb006-9b3c-4004-929a-1a21e57424a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
       <webElementGuid>96a80534-4e7a-4cfd-9baf-beaa70369c9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +57,7 @@
       <webElementGuid>d0784582-b709-4741-b8d2-077e260fa11f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
@@ -46,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/div/div[2]</value>
-      <webElementGuid>60cb9824-67ea-44ed-bc50-8b355e42b71d</webElementGuid>
+      <webElementGuid>dfd418b8-4780-4c04-b1cc-7e14e00535f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +78,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]</value>
-      <webElementGuid>580b6934-2211-4bb7-b576-37c79ab76600</webElementGuid>
+      <webElementGuid>124ec74c-cc3e-43dc-b779-42603d2df610</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
